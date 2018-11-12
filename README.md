@@ -1,7 +1,7 @@
 # Puissance-4--SC
 Puissance 4 version console et version graphique en JavaFX
-(.jar de la version graphique disponible ici)
+(.jar de la version graphique disponible)
 
-Vidéos d'explications :
+VidÃ©os d'explications :
 - version console : https://youtu.be/XcXrWsQo4Ng
 - version JavaFX  : https://youtu.be/yynZrRh7S6M
